@@ -1,5 +1,6 @@
 #!/bin/bash
 # Installateur theme xfce4
+# Tofdz 2022
 REP="XFCE-MOD"
 source ~/.config/user-dirs.dirs
 WDIR=$(pwd)
